@@ -65,7 +65,10 @@
     <Compile Include="Assets\MyPakage\Scripts\CSV\CSVReader.cs" />
     <Compile Include="Assets\MyPakage\Scripts\CSV\CSVWriter.cs" />
     <Compile Include="Assets\MyPakage\Scripts\CSV\Map.cs" />
+    <Compile Include="Assets\MyPakage\Scripts\DestroyTimer.cs" />
+    <Compile Include="Assets\MyPakage\Scripts\EffectManager.cs" />
     <Compile Include="Assets\MyPakage\Scripts\HitManager.cs" />
+    <Compile Include="Assets\MyPakage\Scripts\LoadScene.cs" />
     <Compile Include="Assets\MyPakage\Scripts\NodeCreater.cs" />
     <Compile Include="Assets\MyPakage\Scripts\NodeMove.cs" />
     <Compile Include="Assets\MyPakage\Scripts\Ray\RayCast.cs" />
